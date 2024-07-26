@@ -1,1 +1,1 @@
-# intelidoc-api
+# intellidoc-api
